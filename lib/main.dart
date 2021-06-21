@@ -119,7 +119,6 @@ class ListSearchState extends State<ListSearch> {
               s["photographer"].toLowerCase().contains(text.toLowerCase()))
           .toList();
     });
-    print(newDataList);
   }
 
   void getMainDataList({int page = 1, int per_page = 20}) async {
