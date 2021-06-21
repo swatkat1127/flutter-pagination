@@ -5,7 +5,7 @@ Lazy loading implemented in Listview
 
 ### Highlights:
 - Lazy loading in flutter Listview
-- Internet connectivity check with toast msgs
+- Internet connectivity check with toast notifications
 - Simple search in listview
 - Custom Widget for details page
 
